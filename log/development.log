@@ -1,0 +1,39 @@
+Started GET "/" for ::1 at 2017-06-13 18:18:35 +0800
+Processing by BlogsController#index as HTML
+  [1m[36mPost Load (0.8ms)[0m  [1m[34mSELECT  "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC[0m
+  Rendering blogs/index.html.slim within layouts/application
+  Rendered common/_no_blog_here.html.slim (6.8ms)
+  Rendered common/_welcome.html.slim (3.6ms)
+Started GET "/" for ::1 at 2017-06-13 18:18:47 +0800
+Processing by BlogsController#index as HTML
+  [1m[36mPost Load (1.5ms)[0m  [1m[34mSELECT  "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mPost Load (0.4ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC[0m
+  Rendering blogs/index.html.slim within layouts/application
+  Rendered common/_no_blog_here.html.slim (2.6ms)
+  Rendered common/_welcome.html.slim (3.0ms)
+  Rendered blogs/index.html.slim within layouts/application (26950.1ms)
+  Rendered blogs/index.html.slim within layouts/application (14802.5ms)
+  Rendered common/_welcome_new_year.html.slim (3.7ms)
+  Rendered layouts/_footer.html.slim (3.9ms)
+Completed 200 OK in 27331ms (Views: 27291.3ms | ActiveRecord: 3.2ms)
+
+
+  Rendered common/_welcome_new_year.html.slim (2.9ms)
+  Rendered layouts/_footer.html.slim (3.6ms)
+Completed 200 OK in 15183ms (Views: 15176.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for ::1 at 2017-06-13 18:19:06 +0800
+Processing by BlogsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT  "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts" ORDER BY "posts"."created_at" DESC[0m
+  Rendering blogs/index.html.slim within layouts/application
+  Rendered common/_no_blog_here.html.slim (2.4ms)
+  Rendered common/_welcome.html.slim (3.1ms)
+  Rendered blogs/index.html.slim within layouts/application (15.8ms)
+  Rendered common/_welcome_new_year.html.slim (4.4ms)
+  Rendered layouts/_footer.html.slim (4.8ms)
+Completed 200 OK in 129ms (Views: 125.0ms | ActiveRecord: 0.6ms)
+
+

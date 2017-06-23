@@ -1,0 +1,46 @@
+# Logfile created on 2017-06-13 18:17:12 +0800 by logger.rb/53141
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Starting the New Relic agent in "development" environment.
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Reading configuration from config/newrelic.yml (/Users/xtunes/alice/application/alice_blog)
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : New Relic Agent Developer Mode enabled.
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Environment: development
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : No known dispatcher detected.
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Application: My Application
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] WARN : Agent configured not to send data in this environment.
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing ActiveJob instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Net instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Redis Instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Sidekiq instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Rails 5 Controller instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Installing Rails 5 view instrumentation
+[2017-06-13 18:17:12 +0800 MacBook-Pro.local (89688)] INFO : Finished instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Starting the New Relic agent in "development" environment.
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Reading configuration from config/newrelic.yml (/Users/xtunes/alice/application/alice_blog)
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : New Relic Agent Developer Mode enabled.
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Environment: development
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : No known dispatcher detected.
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Application: My Application
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] WARN : Agent configured not to send data in this environment.
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing ActiveJob instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Net instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Redis Instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Sidekiq instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Rails 5 Controller instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Installing Rails 5 view instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Finished instrumentation
+[2017-06-13 18:18:11 +0800 MacBook-Pro.local (89721)] INFO : Doing deferred dependency-detection before Rack startup

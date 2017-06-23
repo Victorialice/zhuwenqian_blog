@@ -1,0 +1,5 @@
+set :domain, 'zhuwenqian.com'
+set :deploy_to, '/home/ruby/AliceBlog_en'
+set :repository, 'git@github.com:victorialice/AliceBlog.git'
+set :branch, 'master'
+set :user, 'ruby'

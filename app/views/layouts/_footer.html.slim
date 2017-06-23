@@ -1,0 +1,14 @@
+.row
+  .small-12.columns
+    .footer
+      div
+        span.link = ENV['SITE_ADDRESS']
+        span.time = ENV['SITE_YEAR']
+      .license
+        | Designed by
+        span
+          = link_to 'Alice', 'http://zhuwenqian.com/about', target: '_blank'
+      .license
+        | Built with
+        span
+          = link_to 'AliceBlog', 'https://github.com/victorialice/AliceBlog', target: '_blank'
